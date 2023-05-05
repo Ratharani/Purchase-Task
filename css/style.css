@@ -1,0 +1,160 @@
+* {
+  margin:0;
+  padding:0;
+  }
+
+.main_container {
+	width:60%;
+	height:1200px;
+	.border:1px solid black;
+	margin:0 auto;
+	border-radius:5px;
+	
+}
+.header_section  {
+	padding:20px;
+}
+
+.sub_container{
+	width:98%;
+	display:flex;
+	padding:10px;
+	/* background-color:red; */
+}
+.sub_container_1 {
+	width:60%;
+	/* background-color:yellow */
+}
+.image_container_1{
+	width: 100%;
+	
+}
+.image_container_1 img {
+	width:85%;
+	height: 635px;
+    padding:10px;
+	border-radius:5px;
+}
+.image_container_2 {
+	width:100%;
+	display:flex;
+	
+}
+.image_container_2 img {
+	width:40%;
+	height:382px;
+	padding:10px;
+	
+}
+.sub_container_2 {
+	width:40%;
+	/* background-color:orange; */
+	padding:20px;
+}
+.content_1 {
+	display:flex;
+	justify-content:space-between;
+}
+.content_2 {
+	display:flex;
+	justify-content:space-between;
+}
+.content_2 a{
+	text-decoration:none;
+}
+.circle {
+	display:flex;
+	gap:5px;
+}
+
+.circle_1 {
+	width:24px;
+	height:21px;
+	border-radius:15px;
+	background-color:black;
+}
+.circle_2 {
+	width:19px;
+	height:18px;
+	border-radius:15px;
+	background-color:grey;
+}
+
+
+.content_4 {
+	display:flex;
+	justify-content:space-between;
+}
+.content_4 a{
+	text-decoration:none;
+}
+.content_5 {
+	display:flex;
+	gap:10px;
+}
+.box_1 {
+	border:1px solid grey;
+	width:50px;
+	height:20px;
+	padding:10px;
+	border-radius:5px;
+}
+.box_2 {
+	border:1px solid grey;
+	width:50px;
+	height:20px;
+	padding:10px;
+	border-radius:5px;
+	background-color:blue;
+	color:white;
+}
+.box_3 {
+	border:1px solid lightgrey;
+	width:50px;
+	height:20px;
+	padding:10px;
+	border-radius:5px;
+	color:lightgrey;
+}
+
+.content_6 button {
+	width:314px;
+	height:45px;
+	border-radius:5px;
+	background-color:blue;
+	color:white;
+	border:none;
+	
+}
+.content_7 {
+	display:flex;
+	flex-direction:column;
+    gap:20px;
+}
+.care ul {
+	padding:0px 30px;
+
+}
+.content_9 {
+	display:flex;
+	gap:10px;
+	
+}
+.icon_1 {
+	border:1px solid lightgrey;
+	width:163px;
+	height:100px;
+	border-radius:5px;
+	background-color:lightgrey;
+	text-align:center;
+}
+.icon_2 {
+	border:1px solid lightgrey;
+	width:163px;
+	height:100px;
+	border-radius:5px;
+	background-color:lightgrey;
+    text-align:center;
+
+
+}
